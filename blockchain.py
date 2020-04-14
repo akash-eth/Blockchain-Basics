@@ -1,3 +1,7 @@
+# To be installed:
+# Flask==0.12.2: pip install Flask==0.12.2
+# Postman HTTP Client: https://www.getpostman.com/
+
 #-------------------------------Building up blockchain--------------------------------------
                        """WE ARE DEVELOPING A BLOCKCHAIN NETWORK"""
 #-----------------------------Importing Libraries------------------------------------------
