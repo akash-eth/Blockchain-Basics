@@ -6,3 +6,4 @@ Prerequisites:
 1.Download Postman: for testing our blockchain
 2.Try to practice it in Anaconda's: Sypder
 3.Basics of Python programming language
+4.Try different proof of works on your own, by applying different mathematics calculations.
